@@ -10,7 +10,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 \|\| We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance
 
-For step by step instructions by printing method.  Please use the following instructions.  It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
+For step by step instructions by printing method. Please use the following instructions. It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
 
 {% page-ref page="printing-api-key.md" %}
 
@@ -76,9 +76,9 @@ Take note of the paper sizes available as you will likely need to try a few to g
 5. Set the number of copies to print and select your printer
 6. Press the start button and make sure it says connected at the bottom
 
-![Image 1.1 - &apos;Automatically start PushPrinter&apos; button](../.gitbook/assets/pushprinter-settings.png)
+![Image 1.1 - &apos;Automatically start PushPrinter&apos; button](../../.gitbook/assets/pushprinter-settings.png)
 
-![Image 1.2 - &apos;Create Printer&apos;](../.gitbook/assets/create-printer-pushprinter.png)
+![Image 1.2 - &apos;Create Printer&apos;](../../.gitbook/assets/create-printer-pushprinter.png)
 
 ### Test Print
 
